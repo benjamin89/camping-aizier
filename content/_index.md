@@ -7,4 +7,7 @@ featured_image = '/img/hero-image.jpg'
 
 # Website currently under construction
 
-Contact hello@camping-aizier.fr
+## Send us a message
+{{< form-contact action="https://formspree.io/f/xbjneklo" >}}
+
+or email hello@camping-aizier.fr

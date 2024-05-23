@@ -2,3 +2,11 @@ baseURL = 'https://camping-aizier.fr/'
 languageCode = 'en-us'
 title = 'Camping Aizier'
 theme = 'ananke'
+
+[params]
+  body_classes = "avenir bg-near-white"
+  site_logo = "img/logo-no-background.svg"
+
+[[params.ananke_socials]]
+name = "facebook"
+url = "https://www.facebook.com/profile.php?id=61559573716339"

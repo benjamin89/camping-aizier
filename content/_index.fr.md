@@ -2,10 +2,11 @@
 date = 2024-05-22T22:20:41+02:00
 draft = false
 featured_image = '/img/hero-image.jpg'
-title = "Welcome to Camping Aizier"
+title = "Bienvenue au Camping Aizier"
 +++
-# Website under construction
-## Send us a message
+
+# Site en construction
+## Envoie-nous un message
 {{< form-contact action="https://formspree.io/f/xbjneklo" >}}
 
-or email hello@camping-aizier.fr
+ou par mail à hello@camping-aizier.fr

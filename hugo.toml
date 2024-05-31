@@ -1,7 +1,8 @@
 baseURL = 'https://camping-aizier.fr/'
-languageCode = 'en-us'
+defaultContentLanguage = 'en'
 title = 'Camping Aizier'
 theme = 'ananke'
+sectionPagesMenu = 'main'
 
 [params]
   body_classes = "avenir bg-near-white"
@@ -10,3 +11,35 @@ theme = 'ananke'
 [[params.ananke_socials]]
 name = "facebook"
 url = "https://www.facebook.com/profile.php?id=61559573716339"
+
+[languages]
+  [languages.en]
+    disabled = false
+    languageCode = 'en-GB'
+    languageDirection = 'ltr'
+    languageName = 'English'
+    title = 'Camping Aizier'
+    weight = 30
+    [languages.en.params]
+      subtitle = 'Minicamping in the Puy-de-Dome'
+  [languages.nl]
+    disabled = false
+    languageCode = 'nl-BE'
+    languageDirection = 'ltr'
+    languageName = 'Nederlands'
+    title = 'Camping Aizier'
+    weight = 10
+    [languages.nl.params]
+      subtitle = 'Minicamping in de Puy-de-Dome'
+  [languages.fr]
+    disabled = false
+    languageCode = 'fr-FR'
+    languageDirection = 'ltr'
+    languageName = 'Français'
+    title = 'Camping Aizier'
+    weight = 20
+    [languages.fr.params]
+      subtitle = 'Minicamping dans le Puy-de-Dôme'
+    
+[markup.goldmark.renderer]
+unsafe= true

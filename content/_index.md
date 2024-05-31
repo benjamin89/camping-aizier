@@ -4,8 +4,6 @@ draft = false
 featured_image = '/img/hero-image.jpg'
 title = "Welcome to Camping Aizier"
 +++
-# Website under construction
-## Send us a message
-{{< form-contact action="https://formspree.io/f/xbjneklo" >}}
+## Website under construction
 
-or email hello@camping-aizier.fr
+[Contact Us]({{< relref "contact" >}})

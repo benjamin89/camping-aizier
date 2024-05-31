@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/nl/contact/</loc>
+    <lastmod>2024-05-31T18:37:17+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-GB"
+                href="http://localhost:1313/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl-BE"
+                href="http://localhost:1313/nl/contact/"
+                />
+  </url><url>
     <loc>http://localhost:1313/nl/</loc>
     <lastmod>2024-05-22T22:20:41+02:00</lastmod>
     <xhtml:link

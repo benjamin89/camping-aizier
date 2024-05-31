@@ -6,7 +6,14 @@
     <description>Recent content in Welkom op Camping Aizier on Camping Aizier</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-BE</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Fri, 31 May 2024 18:37:17 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/nl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/nl/contact/</link>
+      <pubDate>Fri, 31 May 2024 18:37:17 +0200</pubDate>
+      <guid>http://localhost:1313/nl/contact/</guid>
+      <description>Zend ons een bericht Uw naam&#xD;E-mail adres&#xD;Een e-mailadres is vereist.&#xD;Boodschap&#xD;of stuur een e-mail naar hello@camping-aizier.fr</description>
+    </item>
   </channel>
 </rss>

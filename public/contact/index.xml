@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Welcome to Camping Aizier on Camping Aizier</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content in Welcome to Camping Aizier on Camping Aizier</description>
+    <title>Contacts on Camping Aizier</title>
+    <link>http://localhost:1313/contact/</link>
+    <description>Recent content in Contacts on Camping Aizier</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
     <lastBuildDate>Fri, 31 May 2024 18:37:08 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/contact/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contact</title>
-      <link>http://localhost:1313/contact/</link>
+      <link>http://localhost:1313/contact/contact/</link>
       <pubDate>Fri, 31 May 2024 18:37:08 +0200</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
+      <guid>http://localhost:1313/contact/contact/</guid>
       <description>Send us a message Your Name&#xD;Email Address&#xD;An email address is required.&#xD;Message&#xD;or email hello@camping-aizier.fr</description>
     </item>
   </channel>

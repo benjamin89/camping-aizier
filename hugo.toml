@@ -2,7 +2,6 @@ baseURL = 'https://camping-aizier.fr/'
 defaultContentLanguage = 'en'
 title = 'Camping Aizier'
 theme = 'ananke'
-sectionPagesMenu = 'main'
 
 [params]
   body_classes = "avenir bg-near-white"

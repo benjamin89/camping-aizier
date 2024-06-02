@@ -6,6 +6,7 @@ theme = 'ananke'
 [params]
   body_classes = "avenir bg-near-white"
   site_logo = "img/logo-no-background.svg"
+  sectionPagesMenu = 'main'
 
 [[params.ananke_socials]]
 name = "facebook"

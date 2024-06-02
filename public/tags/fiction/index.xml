@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fiction on Camping Aizier</title>
+    <link>http://localhost:1313/tags/fiction/</link>
+    <description>Recent content in Fiction on Camping Aizier</description>
+    <generator>Hugo</generator>
+    <language>en-GB</language>
+    <lastBuildDate>Mon, 06 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/fiction/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Hunchback of Notre Dame</title>
+      <link>http://localhost:1313/books/the-hunchback-of-notre-dame/</link>
+      <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/the-hunchback-of-notre-dame/</guid>
+      <description>In the vaulted Gothic towers of Notre-Dame Cathedral lives Quasimodo, the hunchbacked bellringer. Mocked and shunned for his appearance, he is pitied only by Esmerelda, a beautiful gypsy dancer to whom he becomes completely devoted. Esmerelda, however, has also attracted the attention of the sinister archdeacon Claude Frollo, and when she rejects his lecherous approaches, Frollo hatches a plot to destroy her, that only Quasimodo can prevent. Victor Hugo&amp;rsquo;s sensational, evocative novel brings life to the medieval Paris he loved, and mourns its passing in one of the greatest historical romances of the nineteenth century.</description>
+    </item>
+    <item>
+      <title>Les Misérables</title>
+      <link>http://localhost:1313/books/les-mis%C3%A9rables/</link>
+      <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/les-mis%C3%A9rables/</guid>
+      <description>Introducing one of the most famous characters in literature, Jean Valjean—the noble peasant imprisoned for stealing a loaf of bread—Les Misérables ranks among the greatest novels of all time. In it, Victor Hugo takes readers deep into the Parisian underworld, immerses them in a battle between good and evil, and carries them to the barricades during the uprising of 1832 with a breathtaking realism that is unsurpassed in modern prose.</description>
+    </item>
+  </channel>
+</rss>

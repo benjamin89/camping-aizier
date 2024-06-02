@@ -1,34 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Welcome to Camping Aizier on Camping Aizier</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content in Welcome to Camping Aizier on Camping Aizier</description>
+    <title>Books on Camping Aizier</title>
+    <link>http://localhost:1313/books/</link>
+    <description>Recent content in Books on Camping Aizier</description>
     <generator>Hugo</generator>
     <language>en-GB</language>
-    <lastBuildDate>Fri, 31 May 2024 18:37:08 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Contact</title>
-      <link>http://localhost:1313/contact/</link>
-      <pubDate>Fri, 31 May 2024 18:37:08 +0200</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
-      <description>Send us a message Your Name&#xD;Email Address&#xD;An email address is required.&#xD;Message&#xD;or email hello@camping-aizier.fr</description>
-    </item>
-    <item>
-      <title>Post 10900</title>
-      <link>http://localhost:1313/posts/post-10900/</link>
-      <pubDate>Tue, 14 May 2024 15:59:37 -0700</pubDate>
-      <guid>http://localhost:1313/posts/post-10900/</guid>
-      <description>The valley quail is not a mountaineer, and seldom enters the Park except at a few of the lowest places on the western boundary. It belongs to the brushy foothills and plains, orchards and wheatfields, and is a hundred times more numerous than the mountain quail. It is a beautiful bird, about the size of the Bob White, and has a handsome crest of four or five feathers an inch long, recurved, standing nearly erect at times or drooping forward.</description>
-    </item>
-    <item>
-      <title>Post 10901</title>
-      <link>http://localhost:1313/posts/post-10901/</link>
-      <pubDate>Tue, 14 May 2024 15:59:37 -0700</pubDate>
-      <guid>http://localhost:1313/posts/post-10901/</guid>
-      <description>Both the yellow and sugar pines grow rapidly on good soil where they are not crowded. At the age of a hundred years they are about two feet in diameter and a hundred or more high. They are then very handsome, though very unlike: the sugar pine, lithe, feathery, closely clad with ascending branches; the yellow, open, showing its axis from the ground to the top, its whorled branches but little divided as yet, spreading and turning up at the ends with magnificent tassels of long stout bright needles, the terminal shoot with its leaves being often three or four feet long and a foot and a half wide, the most hopeful looking and the handsomest tree-top in the woods.</description>
-    </item>
+    <lastBuildDate>Mon, 06 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/books/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Hunchback of Notre Dame</title>
       <link>http://localhost:1313/books/the-hunchback-of-notre-dame/</link>

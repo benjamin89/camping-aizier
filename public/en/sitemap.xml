@@ -38,54 +38,8 @@
                 href="http://localhost:1313/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/fiction/</loc>
-    <lastmod>2024-05-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/historical/</loc>
-    <lastmod>2024-05-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-05-06T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl-BE"
-                href="http://localhost:1313/nl/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="http://localhost:1313/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-GB"
-                href="http://localhost:1313/tags/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/books/the-hunchback-of-notre-dame/</loc>
-    <lastmod>2024-05-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url><url>
-    <loc>http://localhost:1313/books/</loc>
+    <loc>http://localhost:1313/restaurants/</loc>
     <lastmod>2024-05-05T12:07:31-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/books/interpreting-the-french-revolution/</loc>
-    <lastmod>2024-01-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/nonfiction/</loc>
-    <lastmod>2024-01-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/revolution/</loc>
-    <lastmod>2024-01-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/books/the-ancien-r%C3%A9gime-and-the-revolution/</loc>
-    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url><url>
-    <loc>http://localhost:1313/books/les-mis%C3%A9rables/</loc>
-    <lastmod>2022-12-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
     <xhtml:link
@@ -102,6 +56,23 @@
                 rel="alternate"
                 hreflang="en-GB"
                 href="http://localhost:1313/categories/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl-BE"
+                href="http://localhost:1313/nl/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-GB"
+                href="http://localhost:1313/tags/"
                 />
   </url>
 </urlset>
